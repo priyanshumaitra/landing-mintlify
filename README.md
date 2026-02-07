@@ -26,7 +26,6 @@ cd landing-mintlify
 
 1. Install “Live Server”
 2. Right-click `index.html` → **Open with Live Server**
-3. 
 
 ### Folder structure
 
@@ -58,4 +57,6 @@ landing-mintlify
 ```
 
 Screenshot [Link](https://ibb.co/ymqnmFdR)
+
+<img width="500" height="2000" alt="image" src="https://github.com/user-attachments/assets/b60d7481-e0f2-4604-9ffa-7a30329c54aa" />
 
