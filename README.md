@@ -4,21 +4,29 @@ Landing Page of Mintlify using raw HTML and CSS.
 
 [Live Link](https://priyanshumaitra.github.io/landing-mintlify/)
 
-Screenshot [Link](https://ibb.co/JwNWscY9)
-
 
 ### Run locally
 
-You can open the file directly:
+Open Directly in Browser (Simplest)
 
-- Double-click `index.html`
+Clone the repository:
 
-Or run a local server:
+```
+git clone https://github.com/priyanshumaitra/landing-mintlify.git
+
+cd landing-mintlify
+```
+
+1. Open index.html directly in your browser:
+2. Double-click `index.html`, or
+3. Right-click → Open with browser
+
 
 **VS Code (Live Server extension)**
 
 1. Install “Live Server”
 2. Right-click `index.html` → **Open with Live Server**
+3. 
 
 ### Folder structure
 
@@ -26,7 +34,7 @@ Or run a local server:
 ```
 landing-mintlify
 ├─ README.md
-├─ assets
+├─ assets/
 │  ├─ Inter-Regular.otf
 │  ├─ animation.gif
 │  ├─ bg.svg
@@ -48,3 +56,6 @@ landing-mintlify
 └─ style.css
 
 ```
+
+Screenshot [Link](https://ibb.co/ymqnmFdR)
+
